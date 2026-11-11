@@ -37,7 +37,7 @@ layer.
 ## Toolbox
 
 - **Agentic AI:** Claude Code skills and commands, autonomous agent loops, verifier agents, MCP servers, RAG and vector retrieval, prompt and context engineering
-- **Frontend:** React, Next.js, TypeScript, Vue 3, design systems, accessibility, Swift and SwiftUI
+- **Frontend:** Vue 3, React, Next.js, TypeScript, design systems, accessibility, Swift and SwiftUI
 - **Backend:** Python, FastAPI, C# and .NET, Node.js, Postgres, SQL Server, Redis
 - **Delivery:** GitHub Actions, Azure Pipelines, Fly.io, Cloudflare Workers, Playwright, Vitest
 
