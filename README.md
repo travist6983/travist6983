@@ -31,7 +31,7 @@ systems end to end, and lately I build agent loops with real guardrails.
 | [**travisjterry.dev**](https://github.com/travist6983/travis-terry) | My resume site, with a grounded RAG assistant behind bot checks, rate limits, a spend cap and a kill switch. | Next.js, Cloudflare Workers, Vectorize, Claude |
 
 Also in progress, in a private repo: **FoundrKids**, an AI and entrepreneurship learning platform for
-kids 8 to 15, with a six-layer safety model around every model call and COPPA built into the data
+kids 7 to 15, with a six-layer safety model around every model call and COPPA built into the data
 layer.
 
 ## Toolbox
